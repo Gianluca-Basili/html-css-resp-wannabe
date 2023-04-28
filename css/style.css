@@ -131,7 +131,6 @@ img {
 
  /*desktop-first*/ 
 
-
- @media screen and (max-widht:768px){
-
- }
+@media screen and (max-widht:768px) {
+    
+}
