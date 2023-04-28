@@ -129,8 +129,11 @@ img {
  ************************************************/
 
 
- /*desktop-first*/ 
+/*desktop-first*/ 
 
-@media screen and (max-widht:768px) {
-    
+@media screen and (max-width:768px) {
+  .container{
+    max-width: 768px;
+    margin: 0;
+  }
 }
